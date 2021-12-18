@@ -77,5 +77,5 @@ Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in
 [^2]: B.Sc Sven Jansen (Autor:in), 2008, Nutzwertanalyse im Projektmanagement, München, GRIN Verlag, https://www.grin.com/document/179719
 [^3]: https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/nutzwertanalyse/
 [^4]: https://www.braintool.com/blog/so-erstellen-sie-eine-nutzwertanalyse/
-[^5]: https://www.peterjohann-consulting.de/nutzwertanalyse/
+[^5]: https://www.peterjohann-consulting.de/nutzwertanalyse/ 
 
